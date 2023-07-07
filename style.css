@@ -1,0 +1,34 @@
+.body{
+	margin-top:1%;
+	margin-left:5%;
+	margin-right:5%;
+	border-left:2px ;
+	background-color:#F7FFEA;
+	padding-bottom:5px;
+	border-radius:20px 20px 20px 20px;
+	height:570px;
+	}
+body{background-color:#CCCCE8;}
+p{color:blue}
+h2{text-align:center;color:#000099;}
+h4{color:#006600}
+legend{font-family:Times;font-size:25;color:#000099;}
+fieldset{color:blue;background-color:#F7FFEA;}
+table{color:#003366;}
+a:link {
+    color: #660033;text-decoration: none;
+    background-color: none;
+    width: 10px;
+    padding: 3px;
+    border-radius:3px 3px 3px 3px;
+}
+a:visited {
+    color: #556B2F;text-decoration: none;
+}
+
+a:hover {
+    color: #556B2F;background-color: white;text-decoration:underline;font-size:110%;
+}
+a:active {
+    color: #F7FFEA;text-decoration: underline; background-color: blue;;
+}
